@@ -1,3 +1,3 @@
 # 1st-project
-This is my first Git Repository 
+This is my first Git Repository. 
 Author - Satyam Kumar
